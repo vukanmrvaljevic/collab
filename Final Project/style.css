@@ -24,39 +24,37 @@
 }
 
 body {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     color: white;
-    background-color: lightcoral; 
 
-    /*background-blend-mode: multiply;
-    height:vh;
+    background-blend-mode: multiply;
+    height: 100vh;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;*/
+    background-size: cover;
 }
 
 
-/*img {
+img {
     display: block;
     margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;*/
+    width: 50%;
 }
 
 h1{
     font-size: 50px;
     width: 70%;
-    margin-left: 40%;
-    margin-right: 38%;
+    margin-left: 15%;
+    margin-right: 5%;
     text-transform: uppercase;
     font-weight: 100;
-    
 }
 
 h2{
-    width: 100%;
+    width: 70%;
     margin-left: 15%;
     margin-right: 5%;
     margin-bottom: 3%;
@@ -65,7 +63,7 @@ h2{
 
 a {
     text-decoration: none;
-    color: white;
+    color: #f7b3b3;
     transition: color 0.5s;
 }
 
@@ -77,7 +75,7 @@ a:active {
 
 p{
     font-size: 25px;
-    line-height: 125%;
+    line-height: 145%;
     width: 70%;
     margin-left: 15%;
     margin-right: 5%;
@@ -85,26 +83,26 @@ p{
 
 #buttons{
     width: 70%;
-    margin-left: 25%;
+    margin-left: 15%;
     margin-right: 5%;
 }
 
 button{
-    background-color: purple;
-    border: 5px solid gold;
+    background-color: black;
+    border: 1px solid #000;
     border-radius: 20px;
-    padding: 20px 20px;
+    padding: 10px 10px;
     margin-right: 10px;
     color: white;
-    /*text-transform: uppercase;*/
-    font-weight: 250;
-    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 18px;
     transition: color 0.5s;
 }
 
 button:hover {
 
-    color: gold;
+    color: red;
 }
 
 
