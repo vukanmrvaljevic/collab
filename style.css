@@ -1,32 +1,8 @@
-#questionTwo,
-
-#questionThree,
-
-#questionFour,
-
-#questionFive,
-
-#questionSix,
-
-#deathOne,
-
-#deathTwo,
-
-#deathThree,
-
-#deathFour,
-
-#deathFive,
-
-#deathSix,
-
-
-#ending {
+#Two, #Three, #Four, #Five, #Six, #lostOne, #lostTwo, #lostThree, #lostFour, #lostFive, #lostSix, #ending {
 
 display: none;
 
 }
-
 
 
 body {
@@ -35,12 +11,9 @@ font-family: 'Helvetica', sans-serif;
 
 color: white;
 
-background-color: lightcoral;
+background-color: darkolivegreen;
 
 }
-
-
-
 
 
 img {
@@ -60,12 +33,12 @@ width: 50%;
 
 
 h1{
-
+  
 font-size: 50px;
 
 width: 70%;
 
-margin-left: 90%;
+margin-left: 35%;
 
 margin-right: 5%;
 
@@ -86,6 +59,8 @@ margin-left: 15%;
 margin-right: 5%;
 
 margin-bottom: 3%;
+    
+ font-weight: 100;
 
 }
 
